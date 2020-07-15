@@ -32,9 +32,6 @@ circuit.x(qr[2])
 
 
 
-    <qiskit.circuit.instructionset.InstructionSet at 0x7f3686cbbd50>
-
-
 
 
 ```python
@@ -44,9 +41,6 @@ circuit.barrier()
 ```
 
 
-
-
-    <qiskit.circuit.instructionset.InstructionSet at 0x7f367a157810>
 
 
 
@@ -59,9 +53,6 @@ circuit.h(qr[1])
 
 
 
-    <qiskit.circuit.instructionset.InstructionSet at 0x7f367a157290>
-
-
 
 
 ```python
@@ -69,10 +60,6 @@ circuit.measure(qr[0], cr[0])
 circuit.measure(qr[1], cr[1])
 ```
 
-
-
-
-    <qiskit.circuit.instructionset.InstructionSet at 0x7f367a157c90>
 
 
 
