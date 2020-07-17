@@ -41,7 +41,8 @@ These two states are not perpendiculat, as __*|w>*__ occurs in superposition wit
 
 ![sk1](https://user-images.githubusercontent.com/68278907/87781143-65324480-c830-11ea-965f-6f99d73d4d5e.jpg)
 
-![sk2](https://user-images.githubusercontent.com/68278907/87789926-142a4c80-c840-11ea-933e-7431cc856807.jpg)
+![sk2](https://user-images.githubusercontent.com/68278907/87790167-6b302180-c840-11ea-8976-2b024b1d069a.jpg)
+
 
 
 
