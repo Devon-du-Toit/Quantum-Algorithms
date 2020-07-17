@@ -47,12 +47,27 @@ Above, a two-dimensional plane spanned by perpendicular vectors __*|w>*__ and __
 ![sk2](https://user-images.githubusercontent.com/68278907/87790167-6b302180-c840-11ea-8976-2b024b1d069a.jpg)
 
 
-The left graphic corresponds to the two-dimensional plane spanned by perpendicular vectors |w⟩ and |s′⟩ which allows to express the initial state as |s⟩=sinθ|w⟩+cosθ|s′⟩, where θ=arcsin⟨s|w⟩=arcsin1N√. The right graphic is a bar graph of the amplitudes of the state |s⟩ for the case N=22=4. The average amplitude is indicated by a dashed line.
+
+Above, a graph of amplitudes of state __*|s>*__ for __*N=2<sup>2</sup>*__
+
+2. Apply the oracle reflection (__*U<sub>f</sub>*__) to __*|s>*__.
+
+![sk3](https://user-images.githubusercontent.com/68278907/87809400-a1c76580-c85b-11ea-92f6-c4cb44d1cca5.jpg)
+
+![sk4](https://user-images.githubusercontent.com/68278907/87810063-ab9d9880-c85c-11ea-863f-7f883ad5bc5f.jpg)
+
+This implies a reflection of __*|s>*__ around __*|s'>*__ and amplitude __*|w>*__ becomes negative, thus the average amplitude has been lowered.
+
+3. Additional reflection __*U<sub>s</sub>*__ is now reflected about __*|s>*__: __*U<sub>s</sub>=2|s><s|-1*__. This maps the state to __*U<sub>s</sub>U<sub>f</sub>|s>*__ and completes the transformation. 
+
+![sk5](https://user-images.githubusercontent.com/68278907/87810934-169b9f00-c85e-11ea-82ea-b75d4bbd80ac.jpg)
+
+![sk6](https://user-images.githubusercontent.com/68278907/87811251-a3465d00-c85e-11ea-8d9b-748891157021.jpg)
 
 
+The transformation __*U<sub>s</sub>U<sub>f</sub>|s>*__ rotates states __*|s>*__ towards __*|w>*__. Considering the bar diagram, reflection __*U<sub>s</sub>*__ isa reflection about the average amplitude. As the average amplitude is lowered by the first reflection, this transformation amplifies the negative amplitude of __*|w>*__, while it decreases the other amplitudes. Step 2 is again applied to repeat the application until __*|w>*__ is found.
 
+If __*t*__ is the number of steps, we will be in state __*|ψt>*__ where __*|ψt>=(U<sub>s</sub>U<sub>f</sub>)<sup>t</sup>|s>*__.
 
-</br>
-
-__The Quantum Circuit__
+The average number of steps required is roughly __*&#8730; &#x305;N&#x305;*__.
 
