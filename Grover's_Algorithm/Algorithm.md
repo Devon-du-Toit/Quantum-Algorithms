@@ -30,7 +30,20 @@ As __*x*__ is not the required element, the oracle leaves the state unaffected. 
 
 </br>
 
-__The Algorithm__
+__Amplitude Amplification__
+
+The algorithm amplifies the required element and shrinks the other elements's amplitudes. This is done by reflections upon an 2-dimensional vector space __*C<sup>n</sup*__. The two states we consider is the required element __*|w>*__ and and the uniform superposition __*|s>*__ defined by:</br>
+![superposition](https://user-images.githubusercontent.com/68278907/87779800-b856c800-c82d-11ea-8795-85eb2e5b7e24.jpg)
+
+These two states are not perpendiculat, as __*|w>*__ occurs in superposition with amplitude __*N<sup>-1/2</sup>*__ as well. We therefore introduce another state __*|s'>*__ within span of the two vectors, perpendicular to __*|w>*__. This is obtained by removing __*|w>*__ from __*|s>*__ and rescaling.
+
+1. We construct __*|s> = H<sup>⊗n</sup>|0><sup>n</sup>*__:
+
+![sk1](https://user-images.githubusercontent.com/68278907/87781143-65324480-c830-11ea-965f-6f99d73d4d5e.jpg)
+
+![sk2](https://user-images.githubusercontent.com/68278907/87789926-142a4c80-c840-11ea-933e-7431cc856807.jpg)
+
+
 
 
 </br>
