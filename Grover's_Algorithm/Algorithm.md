@@ -41,8 +41,13 @@ These two states are not perpendiculat, as __*|w>*__ occurs in superposition wit
 
 ![sk1](https://user-images.githubusercontent.com/68278907/87781143-65324480-c830-11ea-965f-6f99d73d4d5e.jpg)
 
+Above, a two-dimensional plane spanned by perpendicular vectors __*|w>*__ and __*|s>*__. The initial state is expressed as __*|s>=sinθ(w)+cosθ(s')*__, where __*θ = arcsin<s|w> = arcsin(1/&#8730; &#x305;N&#x305;)*__
+
+
 ![sk2](https://user-images.githubusercontent.com/68278907/87790167-6b302180-c840-11ea-8976-2b024b1d069a.jpg)
 
+
+The left graphic corresponds to the two-dimensional plane spanned by perpendicular vectors |w⟩ and |s′⟩ which allows to express the initial state as |s⟩=sinθ|w⟩+cosθ|s′⟩, where θ=arcsin⟨s|w⟩=arcsin1N√. The right graphic is a bar graph of the amplitudes of the state |s⟩ for the case N=22=4. The average amplitude is indicated by a dashed line.
 
 
 
