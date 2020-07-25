@@ -65,7 +65,7 @@ This implies a reflection of __*|s>*__ around __*|s'>*__ and amplitude __*|w>*__
 ![sk6](https://user-images.githubusercontent.com/68278907/87811251-a3465d00-c85e-11ea-8d9b-748891157021.jpg)
 
 
-The transformation __*U<sub>s</sub>U<sub>f</sub>|s>*__ rotates states __*|s>*__ towards __*|w>*__. Considering the bar diagram, reflection __*U<sub>s</sub>*__ isa reflection about the average amplitude. As the average amplitude is lowered by the first reflection, this transformation amplifies the negative amplitude of __*|w>*__, while it decreases the other amplitudes. Step 2 is again applied to repeat the application until __*|w>*__ is found.
+The transformation __*U<sub>s</sub>U<sub>f</sub>|s>*__ rotates states __*|s>*__ towards __*|w>*__. Considering the bar diagram, reflection __*U<sub>s</sub>*__ is a reflection about the average amplitude. As the average amplitude is lowered by the first reflection, this transformation amplifies the negative amplitude of __*|w>*__, while it decreases the other amplitudes. Step 2 is again applied to repeat the application until __*|w>*__ is found.
 
 If __*t*__ is the number of steps, we will be in state __*|ψt>*__ where __*|ψt>=(U<sub>s</sub>U<sub>f</sub>)<sup>t</sup>|s>*__.
 
