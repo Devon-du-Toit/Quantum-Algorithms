@@ -77,7 +77,7 @@ The amplitude amplification may be replicated with the use of quantum circuits.
 
 1. First of all, we initialize all qubits within the superposition state by applying Hadamard gates over them all.
 2. Depending upon which element is required, a function __*U<sub>f</sub>*__ is applied over the qubits which only gives a negative phase to the desired element,              e.g if __*|010>*__ is required, __*U<sub>f</sub>|010> = -|010>*__.
-3. A reflection about __*|s>*__ is required to complete the cycle, therefore function __*U<sub>f</sub>*__ needs to be selected such that all states orthogonal to __*|s>*__ receives a negative phase. This may be done by applying Hadamard gates to all qubits, selecting a circuit that adds a negative phase to __*|0>*__: __*U<sub>0</sub>1/2(|00>-|01>-|10>+|11>)*__, then applying Hadamards over all qubits again.
+3. A reflection about __*|s>*__ is required to complete the cycle, therefore function __*U<sub>f</sub>*__ needs to be selected such that all states orthogonal to __*|s>*__ receives a negative phase. This may be done by applying Hadamard gates to all qubits, selecting a circuit that adds a negative phase to __*|0>*__ e.g for 2 qubits: __*U<sub>0</sub>1/2(|00>-|01>-|10>+|11>)*__, then applying Hadamards over all qubits again.
   
 ![Grover1](https://user-images.githubusercontent.com/68278907/88462095-17a97d80-cea9-11ea-9b6c-ec560c84589e.jpg)
 
