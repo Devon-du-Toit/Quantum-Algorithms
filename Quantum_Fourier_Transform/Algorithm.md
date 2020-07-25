@@ -29,4 +29,7 @@ while the controlled rotation __*CROT<sub>k</sub>*__:
 For a two-qubit state __*|x<sub>j</sub>x<sub>k</sub>*__ where __*x<sub>j</sub>*__ is the control, the controlled rotation has the effect __*CROT<sub>k</sub> |0x<sub>j</sub>>=|0x<sub>j</sub>>*__ 
 and
 
+![crot_2](https://user-images.githubusercontent.com/68278907/88467513-2c513a00-ced8-11ea-909f-97e3f640e81b.jpg)
+
+
 
