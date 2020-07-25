@@ -16,5 +16,13 @@ which further reduces to our final expression:
 
 ![qft_f](https://user-images.githubusercontent.com/68278907/88467208-db8c1200-ced4-11ea-8a0d-e2cf84b9d8cb.jpg)
 
+<h2>The Quantum Circuit</h2>
 
+The QFT may be implimented by using two types of gates, the single-qubit Hadamard __*H*__ and the controlled rotation __*CROT<sub>k</sub>*__ gate. The Hadamard __*H*__ is given by:
+
+![hadamard](https://user-images.githubusercontent.com/68278907/88467338-628dba00-ced6-11ea-961e-b2cc3ec29f60.jpg)
+
+while the controlled rotation __*CROT<sub>k</sub>*__:
+
+![crot](https://user-images.githubusercontent.com/68278907/88467385-dcbe3e80-ced6-11ea-80f8-80d3540a653c.jpg)
 
