@@ -73,6 +73,6 @@ The average number of steps required is roughly __*&#8730; &#x305;N&#x305;*__.
 
 <h2>The Quantum Circuit<h2>
   
-![Grover1](https://user-images.githubusercontent.com/68278907/88461955-660a4c80-cea8-11ea-99ae-dfa49ea8171b.jpg)
+![Grover1](https://user-images.githubusercontent.com/68278907/88462024-c8634d00-cea8-11ea-9606-1a65f0b83b1a.jpg)
 
 
