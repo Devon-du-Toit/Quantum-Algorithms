@@ -71,7 +71,7 @@ If __*t*__ is the number of steps, we will be in state __*|ψt>*__ where __*|ψt
 
 The average number of steps required is roughly __*&#8730; &#x305;N&#x305;*__.
 
-<h2>The Quantum Circuit<h2>
+<h2>The Quantum Circuit</h2>
   
 The amplitude amplification may be replicated with the use of quantum circuits.
 
