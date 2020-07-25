@@ -4,3 +4,7 @@ The Quantum Fourier Transform (QFT) is given by:
 
 ![QFT](https://user-images.githubusercontent.com/68278907/88466718-8ac5ea80-cecf-11ea-9929-ae064d0d5a90.jpg)
 
+where  __*N = 2<sup>n</sup>*__, 
+
+![sigma_y](https://user-images.githubusercontent.com/68278907/88466893-4a676c00-ced1-11ea-87d9-8aeaf6af33ea.jpg)
+
