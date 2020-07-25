@@ -5,7 +5,7 @@
 
 <h2>Problem</h2>
   
-Consider a large list of __*N*__ items. Within the list is a single element (__*w*__) that we wish to locate. Alternatively, this may be interpreted as, given __*f(x)=1*__, find __*x*__. 
+Consider a large list of __*N*__ items. Within the list is a single element (__*w*__) that we wish to locate.
 
 </br></br>
 
