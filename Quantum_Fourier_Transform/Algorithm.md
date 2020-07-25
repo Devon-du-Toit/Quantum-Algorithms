@@ -26,6 +26,7 @@ while the controlled rotation __*CROT<sub>k</sub>*__:
 
 ![crot](https://user-images.githubusercontent.com/68278907/88467385-dcbe3e80-ced6-11ea-80f8-80d3540a653c.jpg)
 
-The action of CROTk on the two-qubit state |xjxk⟩ where the first qubit is the control and the second is the target is given by
-For a two-qubit state __*|x<sub>j</sub>x<sub>k</sub>*__ where __*x<sub>j</sub>*__ is the control, the controlled rotation has the effect __*CROT<sub>k</sub> |0x<sub>j</sub>>=|0x<sub>j</sub>>*__.
+For a two-qubit state __*|x<sub>j</sub>x<sub>k</sub>*__ where __*x<sub>j</sub>*__ is the control, the controlled rotation has the effect __*CROT<sub>k</sub> |0x<sub>j</sub>>=|0x<sub>j</sub>>*__ 
+and
+
 
