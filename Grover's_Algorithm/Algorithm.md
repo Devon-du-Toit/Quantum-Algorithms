@@ -71,3 +71,7 @@ If __*t*__ is the number of steps, we will be in state __*|ψt>*__ where __*|ψt
 
 The average number of steps required is roughly __*&#8730; &#x305;N&#x305;*__.
 
+<h2>The Quantum Circuit<h2>
+  
+![Grover1](https://user-images.githubusercontent.com/68278907/88461927-2479a180-cea8-11ea-9551-f73336e9ec8e.jpg)
+
