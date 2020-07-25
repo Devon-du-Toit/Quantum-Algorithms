@@ -14,3 +14,7 @@ Substituting this into the original QFT we have:
 
 which further reduces to our final expression:
 
+![qft_f](https://user-images.githubusercontent.com/68278907/88467208-db8c1200-ced4-11ea-8a0d-e2cf84b9d8cb.jpg)
+
+
+
