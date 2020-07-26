@@ -49,7 +49,7 @@ The steps are as follow:
 
 ![urot2](https://user-images.githubusercontent.com/68278907/88478315-ac62b880-cf47-11ea-81d9-57dd4785ed84.png)
 
-After the application of the last UROTn gate on qubit 1 controlled by qubit n, the state becomes 
+3. After the application of the last UROTn gate on qubit 1 controlled by qubit n, the state becomes 
 
 The state of qubit 1 after all the applied __*UROT<sub>n</sub>*__ gates:
 
@@ -59,5 +59,6 @@ if we consider that __*x = [2<sup>n-1</sup>x<sub>1</sub>+2<sup>n-2</sup>x<sub>2<
 
 ![red_urot](https://user-images.githubusercontent.com/68278907/88478477-f5ffd300-cf48-11ea-9ff4-d62100a93361.png)
 
+4. Applying a similar repition of gte upon qubits 2 to qubits n, we have the final state, or QFT:
 
-
+![qft_ur](https://user-images.githubusercontent.com/68278907/88478562-cc937700-cf49-11ea-8c7e-ec0450071d38.png)
