@@ -45,4 +45,7 @@ The steps are as follow:
 
 ![had](https://user-images.githubusercontent.com/68278907/88478244-f7300080-cf46-11ea-8dd7-4dfc28a10ee9.png)
 
+2. The Unitary Rotation __*UROT<sub>2</sub>*__ is applied to qubit 1 with qubit 2 as control:
+
+![urot2](https://user-images.githubusercontent.com/68278907/88478315-ac62b880-cf47-11ea-81d9-57dd4785ed84.png)
 
