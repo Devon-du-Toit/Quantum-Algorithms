@@ -34,5 +34,10 @@ and
 
 ![crot_2](https://user-images.githubusercontent.com/68278907/88467513-2c513a00-ced8-11ea-909f-97e3f640e81b.jpg)
 
+The circuit is composed as:
+
+![qft_circ](https://user-images.githubusercontent.com/68278907/88478189-60fbda80-cf46-11ea-8218-346bf370ec94.png)
+
+
 
 
