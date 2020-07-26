@@ -55,5 +55,9 @@ The state of qubit 1 after all the applied __*UROT<sub>n</sub>*__ gates:
 
 ![urotn](https://user-images.githubusercontent.com/68278907/88478385-13806d00-cf48-11ea-886a-2db543b558e0.png)
 
-if we consider that __*x = [2<sup>n-1</sup>x1+2<sup>n-2</sup>x2+...+2<sup>1</sup>x<sub>n-1</sub>+2<sup>0</sup>x<sub>n</sub>]*__, the above expression reduces to:
+if we consider that __*x = [2<sup>n-1</sup>x<sub>1</sub>+2<sup>n-2</sup>x<sub>2</sub>+...+2<sup>1</sup>x<sub>n-1</sub>+2<sup>0</sup>x<sub>n</sub>]*__, the above expression reduces to:
+
+![red_urot](https://user-images.githubusercontent.com/68278907/88478477-f5ffd300-cf48-11ea-9ff4-d62100a93361.png)
+
+
 
