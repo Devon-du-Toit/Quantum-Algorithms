@@ -39,5 +39,10 @@ The circuit is composed as:
 ![qft_circ](https://user-images.githubusercontent.com/68278907/88478189-60fbda80-cf46-11ea-8218-346bf370ec94.png)
 
 
+The steps are as follow:
+
+1. A Hadamard is applied to qubit 1:
+
+![had](https://user-images.githubusercontent.com/68278907/88478244-f7300080-cf46-11ea-8dd7-4dfc28a10ee9.png)
 
 
