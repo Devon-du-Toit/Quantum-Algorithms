@@ -49,3 +49,11 @@ The steps are as follow:
 
 ![urot2](https://user-images.githubusercontent.com/68278907/88478315-ac62b880-cf47-11ea-81d9-57dd4785ed84.png)
 
+After the application of the last UROTn gate on qubit 1 controlled by qubit n, the state becomes 
+
+The state of qubit 1 after all the applied __*UROT<sub>n</sub>*__ gates:
+
+![urotn](https://user-images.githubusercontent.com/68278907/88478385-13806d00-cf48-11ea-886a-2db543b558e0.png)
+
+
+
