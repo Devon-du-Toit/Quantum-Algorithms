@@ -82,3 +82,33 @@ solution:
 
 <br>
 <br>
+
+__Bloch Sphere__: we can write any normalized (pure) state as:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%3E%3Dcos%5Cfrac%7B%5CTheta%20%7D%7B2%7D%7C0%3E&plus;e%5E%7Bi%5Cvarphi%20%7Dsin%5Cfrac%7B%5CTheta%20%7D%7B2%7D%7C1%3E)
+
+where:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cvarphi%20%5C%20%5Cepsilon%20%5C%20%5B0%2C%20%5C%202%5Cpi%5D)
+
+describes the relative phase, and:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Ctheta%20%5C%20%5Cepsilon%20%5C%20%5B0%2C%20%5C%20%5Cpi%5D)
+
+determines the probability to measure |0> or |1>. All the normalized (pure) states may be illustrated on the surface of a sphere with radius __1__. The coordinates of such a state is given by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Br%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20sin%5Ctheta%20cos%5Ctheta%20%5C%5C%20sin%5Ctheta%20sin%5Cvarphi%20%5C%5C%20cos%5Ctheta%20%5Cend%7Bbmatrix%7D)
+
+![bloch](https://user-images.githubusercontent.com/68278907/89809711-4166d380-db3c-11ea-829f-57add953ca15.png)
+
+for |0>:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C0%3E%20%3A%20%5Ctheta%3D0%20%5C%20%2C%20%5Cvarphi%20%3D%20arbitrary.%20%5Coverrightarrow%7Br%7D%3D%5Cbegin%7Bbmatrix%7D%20sin0%20cos%5Cvarphi%5C%5C%20sin0%20sin%5Cvarphi%5C%5C%20cos0%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%200%5C%5C%201%20%5Cend%7Bbmatrix%7D)
+
+for |1>:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C1%3E%20%3A%20%5Ctheta%3D%5Cpi%20%5C%20%2C%20%5Cvarphi%20%3D%20arbitrary.%20%5Coverrightarrow%7Br%7D%3D%5Cbegin%7Bbmatrix%7D%20sin%5Cpi%20cos%5Cvarphi%5C%5C%20sin%5Cpi%20sin%5Cvarphi%5C%5C%20cos%5Cpi%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%200%5C%5C%20-1%20%5Cend%7Bbmatrix%7D)
+
+for |+>:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C&plus;%3E%20%3A%20%5Ctheta%3D%5Cfrac%7B%5Cpi%7D%7B2%7D%20%5C%20%2C%20%5Cvarphi%20%3D%200.%20%5Coverrightarrow%7Br%7D%3D%5Cbegin%7Bbmatrix%7D%20sin%5Cfrac%7B%5Cpi%7D%7B2%7D%20cos0%5C%5C%20sin%5Cfrac%7B%5Cpi%7D%7B2%7D%20sin0%5C%5C%20cos%5Cfrac%7B%5Cpi%7D%7B2%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%200%5C%5C%201%20%5Cend%7Bbmatrix%7D)
