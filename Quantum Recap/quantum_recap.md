@@ -18,3 +18,29 @@ __Dirac Notation__: Let a, b ∈ ℂ<sup>2</sup>.
 
 <br>
 <br>
+
+__Qubit States__:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C0%3E%20%3D%20%5Cbegin%7Bbmatrix%7D%201%5C%5C0%20%5Cend%7Bbmatrix%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%7C1%3E%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C1%20%5Cend%7Bbmatrix%7D)
+
+Note that states |0> and |1> are orthogonal:
+
+![equation](https://latex.codecogs.com/gif.latex?%3C0%7C1%3E%20%3D%201%5Ctimes%200%20&plus;%200%20%5Ctimes%201%20%3D%200)
+
+All quantum states are normalized:
+
+![equation](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%7C%5Cpsi%3E%20%3D%201)
+
+e.g:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%3E%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%20%7C0%3E&plus;%7C1%3E%20%29%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5C%5C%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cend%7Bbmatrix%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%7C%5Cpsi%3E%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Ctimes%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20&plus;%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Ctimes%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%3D%201)
+
+<br>
+<br>
+
+
+
