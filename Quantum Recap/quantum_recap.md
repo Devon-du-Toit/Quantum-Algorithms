@@ -68,5 +68,17 @@ solution:
 
 ![equation](https://latex.codecogs.com/gif.latex?%3D%7C%5Cfrac%7B1%7D%7B%5Csqrt%7B3%7D%7D&plus;0%7C%5E%7B2%7D%3D%5Cfrac%7B1%7D%7B3%7D)
 
+example 2:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20What%5C%20is%5C%20the%5C%20probability%5C%20to%5C%20measure%5C%20state%5C%20%7C&plus;%3E%20%5C%20for%20%5C%5C%20%7C%5Cpsi%3E%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E-%7C1%3E%29%5Cend%7Balign*%7D)
+
+solution:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%3C0%7C0%3E%20-%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%3C0%7C1%3E%20&plus;%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%3C1%7C0%3E%20-%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%3C1%7C1%3E%20%7C%5E%7B2%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%3D%7C%5Cfrac%7B1%7D%7B2%7D%3C0%7C0%3E-%5Cfrac%7B1%7D%7B2%7D%3C1%7C1%3E%7C%5E%7B2%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%3D%20%5Cfrac%7B1%7D%7B4%7D%7C1-1%7C%5E%7B2%7D%3D0)
+
 <br>
 <br>
