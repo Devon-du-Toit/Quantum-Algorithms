@@ -97,7 +97,7 @@ describes the relative phase, and:
 
 determines the probability to measure |0> or |1>. All the normalized (pure) states may be illustrated on the surface of a sphere with radius __1__. The coordinates of such a state is given by:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Br%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20sin%5Ctheta%20cos%5Ctheta%20%5C%5C%20sin%5Ctheta%20sin%5Cvarphi%20%5C%5C%20cos%5Ctheta%20%5Cend%7Bbmatrix%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7Br%7D%3D%5Cbegin%7Bbmatrix%7D%20sin%5Ctheta%20cos%5Cvarphi%5C%5C%20sin%5Ctheta%20sin%5Cvarphi%5C%5C%20cos%5Ctheta%20%5Cend%7Bbmatrix%7D)
 
 ![bloch](https://user-images.githubusercontent.com/68278907/89809711-4166d380-db3c-11ea-829f-57add953ca15.png)
 
