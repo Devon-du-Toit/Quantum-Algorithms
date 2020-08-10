@@ -116,3 +116,6 @@ for |+>:
 for |->:
 
 ![equation](https://latex.codecogs.com/gif.latex?%7C-%3E%20%3A%20%5Ctheta%3D%5Cfrac%7B%5Cpi%7D%7B2%7D%20%5C%20%2C%20%5Cvarphi%20%3D%20%5Cpi.%20%5Coverrightarrow%7Br%7D%3D%5Cbegin%7Bbmatrix%7D%20sin%5Cfrac%7B%5Cpi%7D%7B2%7D%20cos%5Cpi%5C%5C%20sin%5Cfrac%7B%5Cpi%7D%7B2%7D%20sin%5Cpi%20%5C%5C%20cos%5Cfrac%7B%5Cpi%7D%7B2%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20-1%5C%5C%200%5C%5C%200%20%5Cend%7Bbmatrix%7D)
+
+![bloch2](https://user-images.githubusercontent.com/68278907/89812086-e0d99580-db3f-11ea-9b5f-b5902affe30a.png)
+
