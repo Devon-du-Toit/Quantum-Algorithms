@@ -39,6 +39,10 @@ e.g:
 
 ![equation](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%7C%5Cpsi%3E%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Ctimes%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20&plus;%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Ctimes%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%3D%201)
 
+![equation](https://latex.codecogs.com/gif.latex?%7C&plus;%3E%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E&plus;%7C1%3E%29%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cbegin%7Bbmatrix%7D%201%5C%5C%201%20%5Cend%7Bbmatrix%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%7C-%3E%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E-%7C1%3E%29%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cbegin%7Bbmatrix%7D%201%5C%5C%20-1%20%5Cend%7Bbmatrix%7D)
+
 <br>
 <br>
 
