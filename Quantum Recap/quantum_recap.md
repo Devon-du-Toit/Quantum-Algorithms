@@ -119,3 +119,14 @@ for |->:
 
 ![bloch2](https://user-images.githubusercontent.com/68278907/89812086-e0d99580-db3f-11ea-9b5f-b5902affe30a.png)
 
+For the general state:
+
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%3E%3Dcos%5Cfrac%7B%5CTheta%20%7D%7B2%7D%7C0%3E&plus;e%5E%7Bi%5Cvarphi%20%7Dsin%5Cfrac%7B%5CTheta%20%7D%7B2%7D%7C1%3E)
+
+Theta is the angle on the Bloch Sphere while theta/2 is the angle in the Hilbert Space
+
+<br>
+<br>
+
+__Measurementon the Bloch Sphere__: Z-Measurement corresponds to a projection onto the z-axis and analogously for X & Y.
