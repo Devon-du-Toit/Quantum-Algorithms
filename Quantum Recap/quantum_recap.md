@@ -2,7 +2,7 @@
 <br>
 <br>
 
-__Complex Conjugate__: Let __z__ be a complex number such that __z__ = a + __i__ b for some scalars a, b and imaginary number __i__. The complex conjugate of __z__ will be __z*__ = a- __i__b.
+__Complex Conjugate__: Let __z__ be a complex number such that __z__ = a + __i__ b for some scalars a, b and imaginary number __i__. The complex conjugate of __z__ will be __z*__ = a -__i__ b.
 <br>
 <br>
 
