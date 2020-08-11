@@ -138,3 +138,14 @@ __Single Qubit Gates__: Quantum gates are represented by unitary matrices, that 
 
 ![equation](https://latex.codecogs.com/gif.latex?U%5E%7B%5Cdagger%7DU%3DI)
 
+__Pauli X-Gate__: represented by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7Bx%7D%3D%5Cbegin%7Bbmatrix%7D%200%20%261%20%5C%5C%201%260%20%5Cend%7Bbmatrix%7D%3D%7C0%3E%3C1%7C&plus;%7C1%3E%3C0%7C)
+
+example via matrix representation:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7Bx%7D%7C0%3E%20%3D%5Cbegin%7Bbmatrix%7D%200%20%26%201%5C%5C%201%260%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%201%5C%5C%200%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%201%20%5Cend%7Bbmatrix%7D%20%3D%20%7C1%3E)
+
+example via dirac notation:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%5Csigma%20_%7Bx%7D%7C1%3E%20%5C%5C%20%26%7B%7D%3D%20%28%7C0%3E%3C1%7C&plus;%7C1%3E%3C0%7C%29%5Ccdot%20%7C1%3E%20%5C%5C%20%26%7B%7D%3D%20%7C0%3E%3C1%7C1%3E%20%5C%20&plus;%20%5C%20%7C1%3E%3C0%7C1%3E%20%5C%5C%20%26%7B%7D%3D%201%7C0%3E%20%5C%20&plus;%20%5C%200%7C1%3E%20%5C%5C%20%26%7B%7D%3D%7C0%3E%5Cend%7Balign*%7D)
