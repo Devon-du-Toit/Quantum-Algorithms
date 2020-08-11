@@ -130,3 +130,11 @@ Theta is the angle on the Bloch Sphere while theta/2 is the angle in the Hilbert
 <br>
 
 __Measurementon the Bloch Sphere__: Z-Measurement corresponds to a projection onto the z-axis and analogously for X & Y.
+
+<br>
+<br>
+
+__Single Qubit Gates__: Quantum gates are represented by unitary matrices, that is:
+
+![equation](https://latex.codecogs.com/gif.latex?U%5E%7B%5Cdagger%7DU%3DI)
+
