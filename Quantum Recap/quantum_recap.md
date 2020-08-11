@@ -155,12 +155,12 @@ example via dirac notation:
 
 __Pauli Z-Gate__: Rotation around the Z-axis by *π*, Phase-flip represented by:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7By%7D%3D%5Cbegin%7Bbmatrix%7D%201%20%26%200%5C%5C%200%26-1%20%5Cend%7Bbmatrix%7D%20%3D%20%7C0%3E%3C0%7C-%7C1%3E%3C1%7C)
+![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7Bz%7D%3D%5Cbegin%7Bbmatrix%7D%201%20%26%200%5C%5C%200%26-1%20%5Cend%7Bbmatrix%7D%20%3D%20%7C0%3E%3C0%7C-%7C1%3E%3C1%7C)
 
 example via matrix representation:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7By%7D%7C&plus;%3E%3D%5Cbegin%7Bbmatrix%7D%201%20%26%200%5C%5C%200%26-1%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5C%5C%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5C%5C%20-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%7C-%3E)
+![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7Bz%7D%7C&plus;%3E%3D%5Cbegin%7Bbmatrix%7D%201%20%26%200%5C%5C%200%26-1%20%5Cend%7Bbmatrix%7D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5C%5C%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5C%5C%20-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5Cend%7Bbmatrix%7D%20%3D%20%7C-%3E)
 
 example via dirac notation:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%5Csigma%20_%7By%7D%7C-%3E%5C%5C%20%26%7B%7D%3D%28%7C0%3E%3C0%7C-%7C1%3E%3C1%7C%29%20%5C%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E-%7C1%3E%29%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%20%5C%20%3C0%7C0%3E-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%3C0%7C1%3E-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%3C1%7C0%3E&plus;%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%3C1%7C1%3E%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%20&plus;%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E&plus;%7C1%3E%29%5C%5C%20%26%7B%7D%3D%7C&plus;%3E%20%5Cend%7Balign*%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%5Csigma%20_%7Bz%7D%7C-%3E%5C%5C%20%26%7B%7D%3D%28%7C0%3E%3C0%7C-%7C1%3E%3C1%7C%29%20%5C%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E-%7C1%3E%29%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%20%5C%20%3C0%7C0%3E-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%3C0%7C1%3E-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%3C1%7C0%3E&plus;%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%3C1%7C1%3E%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%20&plus;%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E&plus;%7C1%3E%29%5C%5C%20%26%7B%7D%3D%7C&plus;%3E%20%5Cend%7Balign*%7D)
