@@ -164,3 +164,40 @@ example via matrix representation:
 example via dirac notation:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%5Csigma%20_%7Bz%7D%7C-%3E%5C%5C%20%26%7B%7D%3D%28%7C0%3E%3C0%7C-%7C1%3E%3C1%7C%29%20%5C%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E-%7C1%3E%29%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%20%5C%20%3C0%7C0%3E-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%3C0%7C1%3E-%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%3C1%7C0%3E&plus;%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%3C1%7C1%3E%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C0%3E%20&plus;%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%7C1%3E%5C%5C%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E&plus;%7C1%3E%29%5C%5C%20%26%7B%7D%3D%7C&plus;%3E%20%5Cend%7Balign*%7D)
+
+<br>
+<br>
+
+__Pauli Y-Gate__: Rotation around the Y-axis by *π*, Phase-flip and Bit-flip represented by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Csigma%20_%7By%7D%3D%5Cbegin%7Bbmatrix%7D%200%20%26%20-i%5C%5C%20i%26%200%20%5Cend%7Bbmatrix%7D%20%3D%20i%5Ccdot%20%5Csigma%20_%7Bx%7D%20%5Ccdot%20%5Csigma%20_%7Bz%7D)
+
+<br>
+<br>
+
+__Hadamard Gate__: used to chaange between X and Z bases by creating superposition by:
+
+![equation](https://latex.codecogs.com/gif.latex?H%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%5Cbegin%7Bbmatrix%7D%201%20%26%201%5C%5C%201%26%20-1%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C0%3E%3C0%7C&plus;%7C0%3E%3C1%7C&plus;%7C1%3E%3C0%7C-%7C1%3E%3C1%7C%29)
+
+<br>
+<br>
+
+__Multipartite Qubit Gates__: tensor products are used form multi-qubit states:
+
+![equation](https://latex.codecogs.com/gif.latex?%7Ca%3E%20%5Cotimes%20%5C%20%7Cb%3E%20%3D%20%5Cbegin%7Bbmatrix%7D%20a_%7B1%7D%5C%5C%20a_%7B2%7D%20%5Cend%7Bbmatrix%7D%20%5Cotimes%20%5Cbegin%7Bbmatrix%7D%20b_%7B1%7D%5C%5C%20b_%7B2%7D%20%5Cend%7Bbmatrix%7D%3D%5Cbegin%7Bbmatrix%7D%20a_%7B1%7Db_%7B1%7D%5C%5C%20a_%7B1%7Db_%7B2%7D%5C%5C%20a_%7B2%7Db_%7B1%7D%5C%5C%20a_%7B2%7Db_%7B2%7D%20%5Cend%7Bbmatrix%7D)
+
+example: System A is in state |1><sub>A</sub> and system B is in state |0><sub>B</sub>. The total (bipartite) state is:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C1%3E%20%5Cotimes%20%5C%20%7C0%3E%20%3D%20%7C10%3E%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%201%20%5Cend%7Bbmatrix%7D%20%5Cotimes%20%5Cbegin%7Bbmatrix%7D%201%5C%5C%200%20%5Cend%7Bbmatrix%7D%3D%5Cbegin%7Bbmatrix%7D%200%20%5Ctimes%201%5C%5C%200%20%5Ctimes%200%5C%5C%201%20%5Ctimes%201%5C%5C%201%20%5Ctimes%200%20%5Cend%7Bbmatrix%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%200%5C%5C%200%5C%5C%201%5C%5C%200%20%5Cend%7Bbmatrix%7D)
+
+<br>
+<br>
+
+__CNOT__: represented by:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7DCNOT%3D%5Cbegin%7Bbmatrix%7D%201%20%260%260%260%20%5C%5C%200%20%261%260%260%5C%5C%200%20%260%260%261%5C%5C%200%20%260%261%260%20%5Cend%7Bbmatrix%7D%20%5C%5C%20%26%7B%7D%3D%20%7C00%3E%3C00%7C&plus;%7C01%3E%3C01%7C&plus;%7C10%3E%3C11%7C&plus;%7C11%3E%3C10%7C%20%5Cend%7Balign*%7D)
+
+the circuit is given by:
+
+![cnot](https://user-images.githubusercontent.com/68278907/89910522-a0862000-dbf0-11ea-9c0d-fc8a77de36a8.png)
+
