@@ -201,3 +201,22 @@ the circuit is given by:
 
 ![cnot](https://user-images.githubusercontent.com/68278907/89910522-a0862000-dbf0-11ea-9c0d-fc8a77de36a8.png)
 
+<br>
+<br>
+
+__Entanglement__: If a pure state |Ψ><sub>AB</sub> on systems A,B cannot be written  as |X><sub>A</sub> ⊗ |Y><sub>B</sub>, it is entangled.
+
+<br>
+<br>
+
+__Bell States__: There are four maximally entangled states that build an orthonormal basis:
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%5E%7B00%7D%3E%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C00%3E&plus;%7C11%3E%29)
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%5E%7B01%7D%3E%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C01%3E&plus;%7C10%3E%29)
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%5E%7B10%7D%3E%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C00%3E-%7C11%3E%29)
+
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%5E%7B11%7D%3E%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C01%3E-%7C10%3E%29)
+
+
