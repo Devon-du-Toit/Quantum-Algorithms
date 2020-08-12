@@ -219,4 +219,19 @@ __Bell States__: There are four maximally entangled states that build an orthono
 
 ![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%5E%7B11%7D%3E%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%28%7C01%3E-%7C10%3E%29)
 
+In general terms these reduce to:
 
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%5E%7Bij%7D%3E%3D%28I%5Cotimes%20%5Csigma_%7Bx%7D%5E%7Bj%7D%20%5Csigma_%7Bz%7D%5E%7Bi%7D%29%7C%5Cpsi%5E%7B00%7D%3E)
+
+<br>
+<br>
+
+__Creation of Bell States__: 
+
+![bell](https://user-images.githubusercontent.com/68278907/90029309-063ede80-dcbb-11ea-993d-6ca9f3543401.png)
+
+![bell2](https://user-images.githubusercontent.com/68278907/90030068-e6f48100-dcbb-11ea-937d-605c16b73f49.png)
+
+__Bell Measurement__:
+
+![bell3](https://user-images.githubusercontent.com/68278907/90030914-eb6d6980-dcbc-11ea-9c0b-2af8e34aace1.png)
