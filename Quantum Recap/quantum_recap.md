@@ -48,7 +48,7 @@ e.g:
 <br>
 <br>
 
-__Born Rule__: The probability that a state |Ψ> collapse during a measurement onto the basis {|x>,|x<sup>⊥</sup>} to the state |x> is:
+__Born Rule__: The probability that a state |Ψ> collapse during a measurement onto the basis {|x>,|x<sup>⊥</sup>>} to the state |x> is:
 
 ![equation](https://latex.codecogs.com/gif.latex?P%28x%29%3D%5Cleft%20%7C%20%3Cx%7C%5Cpsi%3E%20%5Cright%20%7C%5E%7B2%7D)
 
