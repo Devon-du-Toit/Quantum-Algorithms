@@ -7,7 +7,7 @@ We want to send an unkown state:
 
 from person 1 to person 3. But person 1 may only send 2 classical bits. Both persons share the maximally entangled state:
 
-![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%20%5E%7B00%7D%3E_%7BAB%7D%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5B%7C00%3E_%7BAB%7D%20&plus;%20%5C11%3E_%7BAB%7D%20%5D)
+![equation](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%20%5E%7B00%7D%3E_%7BAB%7D%20%3D%5Cfrac%7B1%7D%7B%5Csqrt%7B2%7D%7D%20%5B%5Calpha%20%7C00%3E_%7BAB%7D%20&plus;%20%5Cbeta%20%7C11%3E_%7BAB%7D%5D)
 
 <br>
 <br>
