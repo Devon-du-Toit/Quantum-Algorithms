@@ -249,4 +249,14 @@ The size of the blob represent the probability of measuring the respective state
 
 The colour indicates the relative phase compared to the state |0>.
 
+![phase](https://user-images.githubusercontent.com/68278907/91079600-89a9e980-e644-11ea-8570-998970b894de.png)
+
+It may be constructed by distributing the basis states equally as points on a sphere such that the '1's' on each latitude is constant and increasing from north to south.
+
+__example:__ for n=3
+
+![phase](https://user-images.githubusercontent.com/68278907/91080923-b232e300-e646-11ea-8ed6-f414f7fd58d3.png)
+
+![phase](https://user-images.githubusercontent.com/68278907/91081259-1fdf0f00-e647-11ea-9a82-c0354cb1f294.png)
+
 
