@@ -33,7 +33,7 @@ __Steps__:
 
 Person 1 Does a Bell Measurement on S&A:
 
-By refering to the above equation, Person 1 will know that they may measure for themselfves and Person 2:
+By refering to the above equation, Person 1 will know that they may measure for themselves and Person 2:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%20Person%20%5C%201%20%26%20Person%20%5C%202%5C%5C%20%26%20%7C%5Cpsi%5E%7B00%7D%3E%20%26%20%7C%5Cphi%3E_%7BB%7D%5C%5C%20%26%20%7C%5Cpsi%5E%7B01%7D%3E%20%26%20%5Csigma_%7Bx%7D%7C%5Cphi%3E_%7BB%7D%5C%5C%20%26%20%7C%5Cpsi%5E%7B10%7D%3E%20%26%20%5Csigma_%7Bz%7D%7C%5Cphi%3E_%7BB%7D%5C%5C%20%26%20%7C%5Cpsi%5E%7B11%7D%3E%20%26%20%5Csigma_%7Bx%7D%5Csigma_%7Bz%7D%7C%5Cphi%3E_%7BB%7D%20%5Cend%7Balign*%7D)
 
