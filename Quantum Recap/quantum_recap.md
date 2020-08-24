@@ -235,3 +235,18 @@ __Creation of Bell States__:
 __Bell Measurement__:
 
 ![bell3](https://user-images.githubusercontent.com/68278907/90030914-eb6d6980-dcbc-11ea-9c0b-2af8e34aace1.png)
+
+<br>
+<br>
+
+__Q-Sphere__: a Bloch sphere may only represent a single qubit system. For multiple qubits we use a Q-Sphere.
+
+For 1 qubit: 
+'north-pole' represents state |0>
+'south-pole' represent state |1>
+
+The size of the blob represent the probability of measuring the respective state.
+
+The colour indicates the relative phase compared to the state |0>.
+
+
