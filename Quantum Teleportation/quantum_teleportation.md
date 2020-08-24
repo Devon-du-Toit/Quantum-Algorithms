@@ -18,6 +18,11 @@ from person 1 to person 2. But person 1 may only send 2 classical bits. Both per
 
 We may rewrite this as:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%5Cfrac%7B1%7D%7B2%5Csqrt%7B2%7D%7D%5B%28%7C00%3E_%7BSA%7D&plus;%7C11%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C0%3E_%7BB%7D&plus;%5Cbeta%7C1%3E_%7BB%7D%29&plus;%28%7C01%3E_%7BSA%7D&plus;%7C10%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C1%3E_%7BB%7D%20&plus;%20%5Cbeta%7C0%3E_%7BB%7D%29%20%5C%5C%20%26%7B%7D&plus;%28%7C00%3E_%7BSA%7D-%7C11%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C0%3E_%7BB%7D-%5Cbeta%7C1%3E_%7BB%7D%29&plus;%28%7C01%3E_%7BSA%7D-%7C10%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C1%3E_%7BB%7D-%5Cbeta%7C0%3E_%7BB%7D%29%5D%20%5Cend%7Balign*%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B2%5Csqrt%7B2%7D%7D%5B%28%7C00%3E_%7BSA%7D&plus;%7C11%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C0%3E_%7BB%7D&plus;%5Cbeta%7C1%3E_%7BB%7D%29&plus;%28%7C01%3E_%7BSA%7D&plus;%7C10%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C1%3E_%7BB%7D%20&plus;%20%5Cbeta%7C0%3E_%7BB%7D%29%20%5C%5C%20%26%7B%7D&plus;%28%7C00%3E_%7BSA%7D-%7C11%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C0%3E_%7BB%7D-%5Cbeta%7C1%3E_%7BB%7D%29&plus;%28%7C01%3E_%7BSA%7D-%7C10%3E_%7BSA%7D%29%20%5Cotimes%20%28%5Calpha%7C1%3E_%7BB%7D-%5Cbeta%7C0%3E_%7BB%7D%29%5D%20%5Cend%7Balign*%7D)
 
-![equation]()
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26%7B%7D%3D%5Cfrac%7B1%7D%7B2%7D%5B%7C%5Cpsi%5E%7B00%7D%3E_%7BSA%7D%20%5Cotimes%20%5C%20%7C%5Cphi%3E_%7BB%7D%20&plus;%20%7C%5Cpsi%5E%7B01%7D%3E_%7BSA%7D%20%5Cotimes%20%5C%20%5Csigma_%7Bx%7D%7C%5Cphi%3E_%7BB%7D%20%5C%5C%20%26%7B%7D&plus;%20%7C%5Cpsi%5E%7B10%7D%3E_%7BSA%7D%20%5Cotimes%20%5C%20%5Csigma_%7Bz%7D%7C%5Cphi%3E_%7BB%7D%20&plus;%20%7C%5Cpsi%5E%7B11%7D%3E_%7BSA%7D%20%5Cotimes%20%5C%20%5Csigma_%7Bx%7D%5Csigma_%7Bz%7D%7C%5Cphi%3E_%7BB%7D%5D%20%5Cend%7Balign*%7D)
+
+<br>
+<br>
+
+<h3>Protocol<\h3>
