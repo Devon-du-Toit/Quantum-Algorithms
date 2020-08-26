@@ -46,3 +46,9 @@ Person 2 then applies the Pauli gates on their qubit:
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bvmatrix%7D%20%26%20Person%20%5C%201%20%26%20Person%20%5C%202%20%26%20Bits%20%5C%20sent%20%26%20Person%20%5C%202%20%5C%20State%5C%5C%20%26%20%7C%5Cpsi%5E%7B00%7D%3E%20%26%20%7C%5Cphi%3E_%7BB%7D%20%26%2000%20%26%20%7C%5Cphi%3E_%7BB%7D%5C%5C%20%26%20%7C%5Cpsi%5E%7B01%7D%3E%20%26%20%5Csigma_%7Bx%7D%7C%5Cphi%3E_%7BB%7D%20%26%2001%20%26%20%7C%5Cphi%3E_%7BB%7D%5C%5C%20%26%20%7C%5Cpsi%5E%7B10%7D%3E%20%26%20%5Csigma_%7Bz%7D%7C%5Cphi%3E_%7BB%7D%20%26%2010%20%26%20%7C%5Cphi%3E_%7BB%7D%5C%5C%20%26%20%7C%5Cpsi%5E%7B11%7D%3E%20%26%20%5Csigma_%7Bx%7D%5Csigma_%7Bz%7D%7C%5Cphi%3E_%7BB%7D%20%26%2011%20%26%20%7C%5Cphi%3E_%7BB%7D%20%5Cend%7Bvmatrix%7D)
 
 Person 1's state has collapsed during measurement and therefore doesn't have the state |ϕ> anymore, but they sent their state to Person 2.
+
+__Circuit:__
+
+![Untitteleled](https://user-images.githubusercontent.com/68278907/91288823-ba4b6980-e791-11ea-9699-8898dcd936ff.png)
+
+
