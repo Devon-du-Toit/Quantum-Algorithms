@@ -49,6 +49,6 @@ Person 1's state has collapsed during measurement and therefore doesn't have the
 
 __Circuit:__
 
-![Untitteleled](https://user-images.githubusercontent.com/68278907/91288823-ba4b6980-e791-11ea-9699-8898dcd936ff.png)
+![Untitled](https://user-images.githubusercontent.com/68278907/91714550-4f80a080-eb8c-11ea-986a-58bc97addfc0.png)
 
 
