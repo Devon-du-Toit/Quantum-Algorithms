@@ -51,4 +51,6 @@ __Circuit:__
 
 ![Untitled](https://user-images.githubusercontent.com/68278907/91714550-4f80a080-eb8c-11ea-986a-58bc97addfc0.png)
 
+for initial q0 the initial state to be transported, and q2 final the transported state.
+
 
