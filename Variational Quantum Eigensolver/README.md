@@ -108,10 +108,10 @@ For the first part, recalling Z gate requires no rotation, thus the first part c
 
 We then apply different values to θ and summing the Hamilton parts together, e.g for:
 
-- θ = 0, H<sub>1</sub> =2, H<sub>2</sub> = 0, H<sub>3</sub> = 1. Thus H = H<sub>1</sub> + H<sub>2</sub> + H<sub>3</sub> = 3
+- θ = 0, H<sub>1</sub> =2, H<sub>2</sub> = 0, H<sub>3</sub> = 1:
 
 ![equation](https://latex.codecogs.com/gif.latex?%3C%20%5Cpsi%280%29%20%7C%20%5C%20H%20%5C%20%7C%20%5Cpsi%280%29%20%3E%20%5C%20%3D%20%5C%203)
 
-- θ = π, H<sub>1</sub> =-2, H<sub>2</sub> = 0, H<sub>3</sub> = 1. Thus H = H<sub>1</sub> + H<sub>2</sub> + H<sub>3</sub> = -1
+- θ = π, H<sub>1</sub> =-2, H<sub>2</sub> = 0, H<sub>3</sub> = 1:
 
 ![equation](https://latex.codecogs.com/gif.latex?%3C%20%5Cpsi%28%20%5Cpi%29%20%7C%20%5C%20H%20%5C%20%7C%20%5Cpsi%28%20%5Cpi%29%20%3E%20%5C%20%3D%20%5C%20-1)
