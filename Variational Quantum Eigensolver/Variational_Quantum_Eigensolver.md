@@ -2,6 +2,8 @@
 
 Based on Musty Thoughts Method (https://www.mustythoughts.com/variational-quantum-eigensolver-explained)
 
+__Variational Method__:
+
 Consider the Eigenvalue of a matrix:
 
 ![equation](https://latex.codecogs.com/gif.latex?A%5Coverrightarrow%7Bx%7D%3D%20%5Clambda%20%5Coverrightarrow%7Bx%7D)
@@ -21,3 +23,18 @@ but if we use an eigenstate we get:
 The smallest eigenvalue found would equal the ground state of the system (E<sub>0</sub>). If we were to take an arbitrary state of the system |Ψ> with an associated energy E<sub>Ψ</sub>, we would know:
 
 ![equation](https://latex.codecogs.com/gif.latex?E_%7B%20%5Cpsi%7D%20%5Cgeq%20E_%7B0%7D)
+
+This leads to the __variational principle__:
+
+![equation](https://latex.codecogs.com/gif.latex?%3C%20%5Cpsi%20%5Clambda%20%7C%20%5C%20H%20%5C%20%7C%20%5Cpsi%20%5Clambda%20%3E%20%5C%20%5Cgeq%20E_%7B0%7D)
+
+Our E<sub>λ</sub> is an upper bound for the ground energy, which doesn't give a lot of information about the system. To find it as close to the real value as possible we use ansatz.
+
+<br>
+<br>
+
+__Ansatz__
+
+We would like to investigate the spaces of all the possible states. We can do that using parameterizable circuits. 
+
+Consider an RY gate
