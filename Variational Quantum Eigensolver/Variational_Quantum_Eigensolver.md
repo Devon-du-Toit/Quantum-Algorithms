@@ -1,5 +1,7 @@
 <h1>Variational Quantum Eigensolver</h1>
 
+Based on Musty Thoughts Method (https://www.mustythoughts.com/variational-quantum-eigensolver-explained)
+
 <br>
 <br>
 
@@ -10,3 +12,5 @@ Consider the Eigenvalue of a matrix:
 If we imagine that the matrix A is actually a Hamiltonian and vector x is the eigenstate Ψλ:
 
 ![equation](https://latex.codecogs.com/gif.latex?H%20%7C%20%5Cpsi%20%5Clambda%20%3E%20%5C%20%3D%20%5C%20%5Clambda%20%7C%20%5Cpsi%20%5Clambda%20%3E)
+
+which may be viewed as the eigenequation of H.
