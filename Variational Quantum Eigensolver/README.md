@@ -37,4 +37,14 @@ __Ansatz__
 
 We would like to investigate the spaces of all the possible states. We can do that using parameterizable circuits. 
 
-Consider an RY gate
+Consider an RY gate. It has a single parameter, the rotational angle. This may represent a spectrum of quantum states:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Calpha%20%7C0%3E%20&plus;%20%281-%20%5Calpha%29%7C1%3E)
+
+Visualization of these states using a bloch-sphere:
+
+![bloch](https://user-images.githubusercontent.com/68278907/93074789-27616900-f685-11ea-8a5d-e3efb5b8c73c.png)
+
+
+
+
