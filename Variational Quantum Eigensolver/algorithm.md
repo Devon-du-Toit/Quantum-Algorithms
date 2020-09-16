@@ -1,6 +1,6 @@
 <h1>Variational Quantum Eigensolver</h1>
 
-__Determining a Hamiltonian Matrix__:
+<h2>Determining a Hamiltonian Matrix:</h2>
 
 Given a Hamiltonian Polynomial in the form:
 
@@ -25,3 +25,6 @@ Thus the corresponding Hamiltonian matrix will be:
 ![equation](https://latex.codecogs.com/gif.latex?H%3D2%5Cbegin%7Bbmatrix%7D%203%20%26%201%5C%5C%201%26-1%20%5Cend%7Bbmatrix%7D)
 
 
+<h2>Determining a Hamiltonian Polynomial</h2>
+
+Given the Hamiltonian Matrix, the corresponding Polynomial may be determined by decomposing the matrix into Pauli terms.
