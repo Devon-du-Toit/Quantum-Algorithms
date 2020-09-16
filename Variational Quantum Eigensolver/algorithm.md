@@ -50,3 +50,18 @@ Or in augmented matrix form:
 For which, if solved:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20%26%7B%7D%20c_%7B1%7D%3D%5Cfrac%7BH_%7B2%7D&plus;H_%7B3%7D%7D%7B2%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B2%7D%3D%5Cfrac%7BH_%7B1%7D&plus;H_%7B4%7D%7D%7B2%7D-H_%7B4%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B3%7D%3D%5Cfrac%7BH_%7B3%7D%20-%20%5Cfrac%7BH_%7B2%7D&plus;H_%7B3%7D%7D%7B2%7D%7D%7Bi%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B4%7D%3D%5Cfrac%7BH_%7B1%7D&plus;H_%7B4%7D%7D%7B2%7D%20%5Cend%7B*align%7D)
+
+__Example__:
+
+Given Hamiltonian Matrix:
+
+![equation](https://latex.codecogs.com/gif.latex?H%3D%5Cbegin%7Bbmatrix%7D%203%20%261%20%5C%5C%201%26-1%20%5Cend%7Bbmatrix%7D)
+
+We have:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20%26%7B%7D%20c_%7B1%7D%3D%5Cfrac%7B1&plus;1%7D%7B2%7D%3D1%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B2%7D%3D%5Cfrac%7B3-1%7D%7B2%7D&plus;1%3D2%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B3%7D%3D%5Cfrac%7B1%20-%20%5Cfrac%7B1&plus;1%7D%7B2%7D%7D%7Bi%7D%3D0%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B4%7D%3D%5Cfrac%7B3-1%7D%7B2%7D%3D1%20%5Cend%7B*align%7D)
+
+Thus:
+
+![equation](https://latex.codecogs.com/gif.latex?H%3D2Z&plus;X&plus;I)
+
