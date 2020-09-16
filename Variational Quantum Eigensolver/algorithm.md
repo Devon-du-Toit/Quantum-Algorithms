@@ -63,5 +63,5 @@ We have:
 
 Thus:
 
-![equation](https://latex.codecogs.com/gif.latex?H%3D2Z&plus;X&plus;I)
+![equation](https://latex.codecogs.com/gif.latex?H%3DX&plus;2Z&plus;I)
 
