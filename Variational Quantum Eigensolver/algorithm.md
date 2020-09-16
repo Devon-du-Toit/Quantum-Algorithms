@@ -47,4 +47,6 @@ Or in augmented matrix form:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bbmatrix%7D%200%20%261%20%260%20%261%20%26%7CH_%7B1%7D%20%5C%5C%201%26%200%20%26-i%20%260%20%26%7CH_%7B2%7D%20%5C%5C%201%26%200%20%26i%20%260%20%26%7CH_%7B3%7D%20%5C%5C%200%26-1%20%260%20%261%20%26%7CH_%7B4%7D%20%5Cend%7Bbmatrix%7D)
 
-For which may be solved and the Hamiltonian Polynomial found.
+For which, if solved:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20%26%7B%7D%20c_%7B1%7D%3D%5Cfrac%7BH_%7B2%7D&plus;H_%7B3%7D%7D%7B2%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B2%7D%3D%5Cfrac%7BH_%7B1%7D&plus;H_%7B4%7D%7D%7B2%7D-H_%7B4%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B3%7D%3D%5Cfrac%7BH_%7B3%7D%20-%20%5Cfrac%7BH_%7B2%7D&plus;H_%7B3%7D%7D%7B2%7D%7D%7Bi%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B4%7D%3D%5Cfrac%7BH_%7B1%7D&plus;H_%7B4%7D%7D%7B2%7D%20%5Cend%7B*align%7D)
