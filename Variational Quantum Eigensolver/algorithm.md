@@ -1,10 +1,10 @@
 <h1>Variational Quantum Eigensolver</h1>
 
-<h2>Determining a Hamiltonian Matrix:</h2>
+<h2>Determining a Linear Hamiltonian Matrix:</h2>
 
 Given a Hamiltonian Polynomial in the form:
 
-![equation](https://latex.codecogs.com/gif.latex?H%3Dc_%7B1%7DXYZ&plus;C_%7B2%7DXYZ&plus;C_%7B3%7DXYZ&plus;C_%7B4%7DI)
+![equation](https://latex.codecogs.com/gif.latex?H%3DC_%7B1%7DX&plus;C_%7B2%7DY&plus;C_%7B3%7DZ&plus;C_%7B4%7DI)
 
 for C<sub>1-4</sub> constants and X, Y and Z Pauli matrices of:
 
@@ -25,6 +25,6 @@ Thus the corresponding Hamiltonian matrix will be:
 ![equation](https://latex.codecogs.com/gif.latex?H%3D2%5Cbegin%7Bbmatrix%7D%203%20%26%201%5C%5C%201%26-1%20%5Cend%7Bbmatrix%7D)
 
 
-<h2>Determining a Hamiltonian Polynomial</h2>
+<h2>Determining a Linear Hamiltonian Polynomial</h2>
 
-Given the Hamiltonian Matrix, the corresponding Polynomial may be determined by decomposing the matrix into Pauli terms.
+Given the Linear Hamiltonian Matrix, the corresponding Polynomial may be determined by decomposing the matrix into Pauli terms.
