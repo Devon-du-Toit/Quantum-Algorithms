@@ -91,8 +91,9 @@ We start by choosing random parameters, say θ = 0 and θ = π.
 
 - For θ = 0: 
 
-__Calculate <H<sub>Z</sub>>__
-Prepare the quantum state |ψi using our ansatz:
+__Calculating <H<sub>Z</sub>>__
+
+Prepare the quantum state |ψ> using our ansatz:
 
 ![Untitled](https://user-images.githubusercontent.com/68278907/93479814-0c009300-f8fd-11ea-8360-9b068468e2a8.png)
 
@@ -100,3 +101,16 @@ Calculating the expectation value considering the computational basis (Z-Axis):
 
 ![Untitled](https://user-images.githubusercontent.com/68278907/93480009-42d6a900-f8fd-11ea-9978-fd43dd3ba60b.png)
 
+__Calculating <H<sub>X</sub>>__
+
+Prepare the quantum state |ψ'> using our ansatz and rotate it −π/2 (90 degrees) around the Y-Axis to align it with the computational basis (Z-Axis).
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93480574-e3c56400-f8fd-11ea-826e-466a412161bf.png)
+
+Calculate the expectation value considering the computational basis (Z-Axis):
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93480744-10797b80-f8fe-11ea-85cb-2ca6c4dfaf97.png)
+
+Sum all components for the whole expectation value <H>. The expectation value of the identity matrix <H<sub>I</sub>> is 1 therefore:
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93480956-52a2bd00-f8fe-11ea-99bc-6e054c82a71b.png)
