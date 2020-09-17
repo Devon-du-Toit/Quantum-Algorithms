@@ -60,7 +60,7 @@ Given Hamiltonian Matrix:
 
 We have:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20%26%7B%7D%20c_%7B1%7D%3D%5Cfrac%7B1&plus;1%7D%7B2%7D%3D1%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B2%7D%3D%5Cfrac%7B3-1%7D%7B2%7D&plus;1%3D2%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B3%7D%3D%5Cfrac%7B1%20-%20%5Cfrac%7B1&plus;1%7D%7B2%7D%7D%7Bi%7D%3D0%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B4%7D%3D%5Cfrac%7B3-1%7D%7B2%7D%3D1%20%5Cend%7B*align%7D)
+![Untitled](https://user-images.githubusercontent.com/68278907/93494394-4540ff00-f90d-11ea-8e85-39bcf3449102.png)
 
 Thus, for:
 
