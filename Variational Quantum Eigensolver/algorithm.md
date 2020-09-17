@@ -49,7 +49,8 @@ Or in augmented matrix form:
 
 For which, if solved:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20%26%7B%7D%20c_%7B1%7D%3D%5Cfrac%7BH_%7B2%7D&plus;H_%7B3%7D%7D%7B2%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B2%7D%3D%5Cfrac%7BH_%7B1%7D&plus;H_%7B4%7D%7D%7B2%7D-H_%7B4%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B3%7D%3D%5Cfrac%7BH_%7B3%7D%20-%20%5Cfrac%7BH_%7B2%7D&plus;H_%7B3%7D%7D%7B2%7D%7D%7Bi%7D%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B4%7D%3D%5Cfrac%7BH_%7B1%7D&plus;H_%7B4%7D%7D%7B2%7D%20%5Cend%7B*align%7D)
+![Untitled](https://user-images.githubusercontent.com/68278907/93494023-d82d6980-f90c-11ea-9a98-570534959669.png)
+
 
 __Example__:
 
