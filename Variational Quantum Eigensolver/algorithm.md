@@ -114,3 +114,29 @@ Calculate the expectation value considering the computational basis (Z-Axis):
 Sum all components for the whole expectation value <H>. The expectation value of the identity matrix <H<sub>I</sub>> is 1 therefore:
 
 ![Untitled](https://user-images.githubusercontent.com/68278907/93480956-52a2bd00-f8fe-11ea-99bc-6e054c82a71b.png)
+
+- For θ = π: 
+
+__Calculating <H<sub>Z</sub>>__
+
+Prepare the quantum state |ψ> using our ansatz:
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93483796-79aebe00-f901-11ea-8fe8-a391a90de416.png)
+
+Calculate the expectation value considering the computational basis (Z-Axis).
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93483947-a367e500-f901-11ea-8743-725a65b7901b.png)
+
+__Calculate <H<sub>X</sub>__
+
+Prepare the quantum state |ψ'> using our ansatz and rotate it −π/2 (90 degrees) around the Y-Axis to align it with the computational basis (Z-Axis).
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93484252-fb9ee700-f901-11ea-897b-f02f23f830a1.png)
+
+Calculate the expectation value considering the computational basis (Z-Axis)
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93484502-4456a000-f902-11ea-8a6c-5a40b88faef5.png)
+
+Sum all components for the whole expectation value <H>. The expectation value of the identity matrix <H<sub>I</sub>> is 1 therefore:
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93484720-8c75c280-f902-11ea-9b7b-d96b60259bd8.png)
