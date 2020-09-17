@@ -61,7 +61,42 @@ We have:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cbegin%7B*align%7D%20%26%7B%7D%20c_%7B1%7D%3D%5Cfrac%7B1&plus;1%7D%7B2%7D%3D1%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B2%7D%3D%5Cfrac%7B3-1%7D%7B2%7D&plus;1%3D2%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B3%7D%3D%5Cfrac%7B1%20-%20%5Cfrac%7B1&plus;1%7D%7B2%7D%7D%7Bi%7D%3D0%5C%5C%20%5C%5C%20%26%7B%7D%20c_%7B4%7D%3D%5Cfrac%7B3-1%7D%7B2%7D%3D1%20%5Cend%7B*align%7D)
 
-Thus:
+Thus, for:
+
+![equation](https://latex.codecogs.com/gif.latex?H%3DC_%7B1%7DX&plus;C_%7B2%7DY&plus;C_%7B3%7DZ&plus;C_%7B4%7DI)
+
 
 ![equation](https://latex.codecogs.com/gif.latex?H%3DX&plus;2Z&plus;I)
+
+<h2>Selecting an Ansatz</h2>
+
+Selecting an Asatz is heuristic, meaning it is something that is to be discovered for each VQE, usually based on intiution or trial-and-error.
+
+That being said, we'll start with the ansatz RY(θ), as it will allow us to view the states cos|θ>+sin(θ)|1>.
+
+<h2>Quantum Circuit</h2>
+
+The Hamiltonian Polynomial is required, as the parts dictate the required gates:
+
+- For X, the gate __RY(−π/2)__ is applied.
+- For Y, __RX(π/2)__ is applied.
+- For Z, no gate is applied.
+- For I, no gate is applied.
+
+__Example:__
+
+For H = X + 2Z + I, calculate the expectatiobn state, __<ψ| H |ψ> = E(ψ)__.
+
+We start by choosing random parameters, say θ = 0 and θ = π.
+
+- For θ = 0: 
+
+__Calculate <H<sub>Z</sub>>__
+Prepare the quantum state |ψi using our ansatz:
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93479814-0c009300-f8fd-11ea-8360-9b068468e2a8.png)
+
+Calculating the expectation value considering the computational basis (Z-Axis):
+
+![Untitled](https://user-images.githubusercontent.com/68278907/93480009-42d6a900-f8fd-11ea-9978-fd43dd3ba60b.png)
 
