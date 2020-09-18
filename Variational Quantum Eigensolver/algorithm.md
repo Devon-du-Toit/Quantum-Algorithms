@@ -1,3 +1,4 @@
+
 <h1>Variational Quantum Eigensolver</h1>
 
 <h2>Determining a Linear Hamiltonian Matrix:</h2>
@@ -151,9 +152,11 @@ In the above example:
 - For θ = 0: 
 
 Z|ψ> = |0> = 1
+
 Z|ψ'> = |+> = 1/sqrt(2)[|0>+|1>] = 1/(sqrt(2)[1+(-1)] = 0
 
 - For θ = π: 
 
 Z|ψ> = |1> = -1
+
 Z|ψ'> = |-> = 1/sqrt(2)[|0>-|1>] = 1/(sqrt(2)[1 __+__ (-1)] = 0
