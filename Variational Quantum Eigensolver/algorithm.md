@@ -141,3 +141,19 @@ Calculate the expectation value considering the computational basis (Z-Axis)
 Sum all components for the whole expectation value <H>. The expectation value of the identity matrix <H<sub>I</sub>> is 1 therefore:
 
 ![Untitled](https://user-images.githubusercontent.com/68278907/93484720-8c75c280-f902-11ea-9b7b-d96b60259bd8.png)
+
+__Expectation value from counts:__
+
+To measure the expectation value, <ψ| H |ψ>, we may sum the counts of the circuit measurements together by replacing |0> counts with 1 and |1> (or-|1>) with -1.
+
+In the above example:
+
+- For θ = 0: 
+
+Z|ψ> = |0> = 1
+Z|ψ'> = |+> = 1/sqrt(2)[|0>+|1>] = 1/(sqrt(2)[1+(-1)] = 0
+
+- For θ = π: 
+
+Z|ψ> = |1> = -1
+Z|ψ'> = |-> = 1/sqrt(2)[|0>-|1>] = 1/(sqrt(2)[1__+__ (-1)] = 0
