@@ -145,11 +145,18 @@ Sum all components for the whole expectation value <H>. The expectation value of
 
 __Expectation value from counts:__
 
-To measure the expectation value, <ψ| H |ψ>, we may sum the counts of the circuit measurements together by replacing |0> counts with 1 and |1> (or-|1>) with -1. Or, more generally, to find the expectation value in the Z-basis:
+To measure the expectation value, <ψ| H |ψ>, we may sum the counts of the circuit measurements together by replacing |0> counts with 1 and |1> (or-|1>) with -1. Or, more generally, to find the expectation value in the Z-basis for single qubits:
 
 ![equation](https://latex.codecogs.com/gif.latex?%3CH_%7BZ%7D%3E%3D%5Cfrac%7Bn_%7B0%7D-n_%7B1%7D%7D%7BN%7D)
 
 For n<sub>0</sub> the number of |0> measurements, n<sub>1</sub> the number of |1> measurements and N the total number of measurements.
+
+For 2 qubits, the expectation value may be found by:
+
+![equation](https://latex.codecogs.com/gif.latex?%3CH_%7BZ%7D%3E%20%3D%20%5Cfrac%7Bn_%7B00%7D-n_%7B01%7D-n_%7B10%7D&plus;n_%7B11%7D%7D%7BN%7D)
+
+
+For n<sub>00</sub> the number of |00> measurements, n<sub>01</sub> the number of |01>, n<sub>10</sub> the number of |10> measurements, n<sub>11</sub> the  number of |11> measurements and N the total number of measurements.
 
 In the above example:
 
